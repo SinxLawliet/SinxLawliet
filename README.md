@@ -1,10 +1,19 @@
-### Hi there 👋, my name is Dominic
-#### I am an aspiring developer
-As I near the completion of my IT degree, my passion for technology continues to grow. I’m eager to channel my skills into impactful real-world projects, where innovation meets opportunity.
+### Hi there 👋
+#### I am an IT Graduate and a Junior Developer
+I completed my degree in Information Technology and have gained hands-on experience through academic and personal projects involving backend development, web development, and AI-related applications.
 
-Skills: Java / Python / HTML / CSS / React
+My interests include building web applications, developing backend systems, and exploring artificial intelligence and machine learning technologies. I'm always looking for opportunities to expand my skills, collaborate on projects, and apply what I've learned to real-world challenges.
 
-- 🔭 I’m currently working on this page. 
+### 🛠️ Skills & Technologies
+- Programming Languages: Java, Python, JavaScript, PHP
+- Web Development: HTML, CSS, React
+- Database Management: SQL, NoSQL
+- AI & Machine Learning: Data Annotation, Model Training, Computer Vision (YOLO)
+- Tools: Git, GitHub
+### 🌱 Currently Learning
+- Backend development best practices
+- Modern web technologies
+- AI and machine learning applications
 
 
 
