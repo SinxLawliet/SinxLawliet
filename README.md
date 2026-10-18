@@ -21,93 +21,22 @@ I'm a developer interested in building practical software, creating engaging web
 I enjoy learning new technologies, solving problems, and applying what I learn through hands-on projects. My goal is to continuously improve my skills and create meaningful, well-crafted work.
 </p>
 
-<hr color="#58A6FF" />
-
-<h2 align="center">Areas of Interest</h2>
-
-<table>
-<tr>
-<td width="33%" valign="top" align="center">
-
-<img src="https://img.shields.io/badge/WEB-58A6FF?style=for-the-badge&labelColor=0D1117" alt="Web development" />
-
-<h3>🌐 Web Development</h3>
-
-<p>
-Turning ideas into interactive experiences, building interfaces that feel good to use, and making the web a little more interesting.
-</p>
-
-</td>
-<td width="33%" valign="top" align="center">
-
-<img src="https://img.shields.io/badge/SOFTWARE-58A6FF?style=for-the-badge&labelColor=0D1117" alt="Software development" />
-
-<h3>⚙️ Software Development</h3>
-
-<p>
-Solving problems one line at a time, figuring out how things work, and turning messy ideas into something useful.
-</p>
-
-</td>
-<td width="33%" valign="top" align="center">
-
-<img src="https://img.shields.io/badge/GAME_DEV-58A6FF?style=for-the-badge&labelColor=0D1117" alt="Game development" />
-
-<h3>🎮 Game Development</h3>
-
-<p>
-Exploring game mechanics, experimenting with interactive worlds, and discovering what makes a game fun to play.
-</p>
-
-</td>
-</tr>
-</table>
 
 <hr color="#58A6FF" />
 
 <h2 align="center">Tech Stack</h2>
 
 <div align="center">
-
-<p>
-<strong>Web Development</strong>
-<br><br>
-<img src="https://skillicons.dev/icons?i=html,css,react&theme=dark" alt="HTML, CSS, React" />
-</p>
-
-<p>
-<strong>Programming Languages</strong>
-<br><br>
-<img src="https://skillicons.dev/icons?i=java,python,javascript,php&theme=dark" alt="Java, Python, JavaScript, PHP" />
-</p>
-
-<p>
-<strong>Database Management</strong>
-<br><br>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqEtKD-SuIhbRvQo3NVndUkt1j8_SLc5xpEOl3LD2bdvPs1kHkC2E7nOk&s=10" width="48" height="48" alt="SQL" />
-<img src="https://img.icons8.com/color/1200/mongodb.jpg" width="48" height="48" alt="NoSQL" />
-</p>
-
-<p>
-<strong>Design</strong>
-<br><br>
-<img src="https://static.vecteezy.com/system/resources/previews/065/386/871/non_2x/figma-logo-icon-figma-app-editable-transparent-background-premium-social-media-design-for-digital-download-free-png.png" width="48" height="48" alt="Figma" />
-<img src="https://static.vecteezy.com/system/resources/thumbnails/048/759/334/small/canva-transparent-icon-free-png.png" width="48" height="48" alt="Canva" />
-</p>
-
-<p>
-<strong>Tools &amp; Platforms</strong>
-<br><br>
-<img src="https://skillicons.dev/icons?i=vscode,idea&theme=dark" alt="Visual Studio Code, IntelliJ IDEA" />
-<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/1280px-Google_Colaboratory_SVG_Logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" width="48" height="48" alt="Google Colab" />
-<img src="https://prod-findmyaitool.s3.us-east-1.amazonaws.com/images/ai-tool/logo/Roboflow-1723795548542" width="48" height="48" alt="Roboflow" />
-</p>
-
+  <img src="https://skillicons.dev/icons?i=html,css,react,java,python,javascript,php,vscode,idea&theme=dark" alt="HTML, CSS, React, Java, Python, JavaScript, PHP, VS Code, IntelliJ IDEA" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqEtKD-SuIhbRvQo3NVndUkt1j8_SLc5xpEOl3LD2bdvPs1kHkC2E7nOk&s=10" width="48" height="48" alt="SQL" />
+  <img src="https://img.icons8.com/color/1200/mongodb.jpg" width="48" height="48" alt="MongoDB" />
+  <img src="https://static.vecteezy.com/system/resources/previews/065/386/871/non_2x/figma-logo-icon-figma-app-editable-transparent-background-premium-social-media-design-for-digital-download-free-png.png" width="48" height="48" alt="Figma" />
+  <img src="https://static.vecteezy.com/system/resources/thumbnails/048/759/334/small/canva-transparent-icon-free-png.png" width="48" height="48" alt="Canva" />
+  <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/1280px-Google_Colaboratory_SVG_Logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" width="48" height="48" alt="Google Colab" />
+  <img src="https://prod-findmyaitool.s3.us-east-1.amazonaws.com/images/ai-tool/logo/Roboflow-1723795548542" width="48" height="48" alt="Roboflow" />
 </div>
 
 <hr color="#58A6FF" />
-
-<h2 align="center">GitHub Activity</h2>
 
 <div align="center">
   <img
