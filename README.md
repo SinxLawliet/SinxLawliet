@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&height=55&lines=Hi%2C+I'm+Dominic." alt="Hi, I'm Dominic" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=900&color=79C0FF&center=true&vCenter=true&width=650&height=35&lines=Web+Development;Software+Development;Game+Development;Always+Learning" alt="Areas of interest" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=900&color=79C0FF&center=true&vCenter=true&width=650&height=35&lines=Web+Development;Software+Development;Game+Development;" alt="Areas of interest" />
 
 <br>
 
